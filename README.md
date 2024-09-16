@@ -4,7 +4,10 @@ Description:
 
 🤩 Anadolu Hayat Emeklilik, ikinci kez düzenleyeceği Datathon’da, gerçek problemlere en iyi tahmin yöntemini geliştirerek gerçek veriler üzerinden çözüm bulacağın ve veri bilimi alanındaki yeteneklerini gösterebileceğin bir fırsat sunuyor.
 
-Evaluation: Kaggle yarışmasında başarı metriği ağırlıklı F1 Skoru olacaktır
+Evaluation: 
+
+Kaggle yarışmasında başarı metriği ağırlıklı F1 Skoru olacaktır
 
 Sonuç: 
+
 Yarışmaya sonradan katılabildiğim için late submission yoluyla kendimi test ettiğim bir yarışma oldu. Ağırlıklı F1 skoru "0.10122" ile yarışmaya sonradan 22. sıradan girmiş bulunmaktayım.
